@@ -4,46 +4,55 @@
   alt="header"/>
 </div>
 <br>
-<h2>Sobre mi:</h2>
+
+<h2 align="center">Sobre mi:</h2>
+
 <!--Intro Start-->
 <p align="left">
 Lic. En Administración de Tecnologías de Información
 Me interesa desarrollar mi carrera como analista de datos, aplicando la tecnología para transformar información en decisiones estratégicas. Cumpliendo con todos los objetivos encomendados y procurando alta satisfacción al cliente, me caracterizo por mi curiosidad analítica, atención al detalle, proactiva y entusiasmo por aprender nuevas herramientas que optimizan la toma de decisiones en entornos digitales.
-
-<!--Intro end-->
 </p>
+<!--Intro end-->
+
 <!-- Data Analyst -->
 <div align="center" width="100">
   <h1>Data Analyst</h1>
   
   <!-- Languages -->
-  </br>
-  <h3>Languages</h3>
+  <h3>Lenguajes de Programación</h3>
 
-  <img
-    src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python"
-    width="60px"
-    alt="Groovy">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://img.icons8.com/color/48/000000/mysql-logo.png"
-    width="60px"
-    alt="Typescript">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-
-
+  <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="60" alt="Python">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="60" alt="MySQL">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   
+  <!-- Tools & Technologies -->
+  <h3>Herramientas & Tecnologías</h3>
+
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="50" alt="Excel">
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="50" alt="Tableau">
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="50" alt="Power BI">
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluency/48/000000/jupyter.png" width="50" alt="Jupyter">
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" width="50" alt="Pandas">
+
   <!-- Connect with me: -->
-  </br>
   <h3>Connect with me</h3>
 
-<br>
+  [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/brenda-naitzabell-sanchez-alonso "LinkedIn")
+  [![Teléfono](https://img.icons8.com/fluency/48/000000/phone-disconnected.png)](tel:+525518465070 "Teléfono")
+  [![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:brendanaitzabell1989@gmail.com "Email")
 
-[![@BRENDANAITZABELL](https://img.icons8.com/fluency/48/000000/linkedin.png "@BRENDANAITZABELL")](https://www.linkedin.com/in/brenda-naitzabell-sanchez-alonso) [![@5518465070](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@5518465070")](tel:5518465070) [![@brendanaitzabell1989@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@brendanaitzabell1989@gmail.com")](brendanaitzabell1989@gmail.com)
-
-<br>
-
-</div>
+  <!-- Info de contacto visible -->
+  <div align="center">
+    <p>
+      <strong>📞 Teléfono:</strong> <a href="tel:+525518465070">+52 55 1846 5070</a><br>
+      <strong>📧 Email:</strong> <a href="mailto:brendanaitzabell1989@gmail.com">brendanaitzabell1989@gmail.com</a>
+    </p>
+  </div>
 
 </div>
 
@@ -53,14 +62,3 @@ Me interesa desarrollar mi carrera como analista de datos, aplicando la tecnolog
   alt="footer" />
 </div>
 
-<!--
-USED:
-1. Markdown: https://github.github.com/gfm/
-2. Icons: https://github.com/devicons/devicon/tree/v2.14.0/icons
-3. Header/Footer: https://github.com/kyechan99/capsule-render
-4. GitHub streak: https://github-readme-streak-stats.herokuapp.com/demo/
-5. GitHub trophy: https://github.com/ryo-ma/github-profile-trophy
-6. Badges: https://shields.io
--->
-
-------
